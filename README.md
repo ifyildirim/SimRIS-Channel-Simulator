@@ -1,6 +1,7 @@
 # SimRIS Channel Simulator v2.0
 
 ![SimRIS Logo](SimRIS_GUI.png) <!-- Replace with your logo or a relevant image -->
+[![View SimRIS-Channel-Simulator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/133422-simris-channel-simulator)
 
 Welcome to the _SimRIS Channel Simulator_ v2.0 repository! This open-source and user-friendly simulator is designed for accurate physical channel modeling of Reconfigurable Intelligent Surface (RIS)-empowered networks. Whether you're a researcher, developer, or enthusiast in the field of wireless communication, _SimRIS Channel Simulator_ v2.0 is here to support your studies and experiments.
 
