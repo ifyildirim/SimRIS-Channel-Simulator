@@ -2,7 +2,7 @@
 
 ![SimRIS Logo](SimRIS_GUI.png) <!-- Replace with your logo or a relevant image -->
 
-Welcome to the SimRIS Channel Simulator v2.0 repository! This open-source and user-friendly simulator is designed for accurate physical channel modeling of Reconfigurable Intelligent Surface (RIS)-empowered networks. Whether you're a researcher, developer, or enthusiast in the field of wireless communication, SimRIS v2.0 is here to support your studies and experiments.
+Welcome to the _SimRIS Channel Simulator_ v2.0 repository! This open-source and user-friendly simulator is designed for accurate physical channel modeling of Reconfigurable Intelligent Surface (RIS)-empowered networks. Whether you're a researcher, developer, or enthusiast in the field of wireless communication, _SimRIS Channel Simulator_ v2.0 is here to support your studies and experiments.
 
 ## Key Features
 
@@ -11,21 +11,22 @@ Welcome to the SimRIS Channel Simulator v2.0 repository! This open-source and us
 - Support for indoor and outdoor environments (Indoor Hotspot and Urban Microcellar) across popular mmWave frequencies (28 GHz and 73 GHz).
 - MIMO terminal support with different array types (Uniform Linear Array and Uniform Planar Array).
 - User-friendly Graphical User Interface (GUI) for scenario setup and customization.
-- Generation of channel matrices (H, G, D) through Monte Carlo simulations for specified realizations.
+- Generation of channel matrices (**H**, **G**, **D**) through Monte Carlo simulations for specified realizations.
 - Open-source and written in MATLAB for easy accessibility and contribution.
 
 ## Getting Started
 
-To quickly get started with SimRIS Channel Simulator v2.0, follow these steps:
+To quickly get started with _SimRIS Channel Simulator_ v2.0, follow these steps:
 
 1. Clone or download this repository to your local machine.
 2. Open the SimRIS_GUI.m and run it in MATLAB.
 3. In the opened GUI, choose and select all parameters. Then, click the "Run SimRIS" button!
-  (Note: SimRIS needs a parallel computing toolbox!)
+  (**Note:** SimRIS needs a parallel computing toolbox!)
 4. If the simulation is not executed, please check the Error Control Box!
-5. If the simulation is succesfully executed, H (NxNtxNsym), G (NrxNxNsym), and D (NrxNtxNsym) can be directly used from the MATLAB workspace.
-   N: Number of Transmit Reflectors, Nt: Number of Transmit Antennas, Nr: Number of Receive Antennas, Nsym: Number of Channel Realizations
-6. Using the "Save as" button, the channels can be downloaded as a ".mat" format.
+5. If the simulation is successfully executed, **H** (_N_x_Nt_x_Nsym_), **G** (_Nr_x_N_x_Nsym_), and **D** (_Nr_x_Nt_x_Nsym_) can be directly used from the MATLAB workspace.
+
+   _N_: Number of Transmit Reflectors, _Nt_: Number of Transmit Antennas, _Nr_: Number of Receive Antennas, _Nsym_: Number of Channel Realizations
+7. Using the "Save as" button, the channels can be downloaded in a ".mat" format.
 
 ## Documentation
 
@@ -40,7 +41,7 @@ E. Basar, I. Yildirim, “[Reconfigurable Intelligent Surfaces for Future Wirele
 
 ## License and Citation
 
-SimRIS Channel Simulator v2.0 is released under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original articles. 
+_SimRIS Channel Simulator_ v2.0 is released under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original articles. 
 The following Bibtex entry can be used:
 
                   @article{basar2020SimRIS,
@@ -69,7 +70,7 @@ The following Bibtex entry can be used:
                   Doi= {10.1109/MWC.001.2000338},}
 ## Contributing
 
-We welcome contributions from the community to enhance and improve SimRIS Channel Simulator v2.0. Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue to discuss the proposed changes.
+We welcome contributions from the community to enhance and improve _SimRIS Channel Simulator_ v2.0. Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue to discuss the proposed changes.
 
 ## Contact
 
