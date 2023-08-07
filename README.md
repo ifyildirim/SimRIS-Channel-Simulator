@@ -1,6 +1,6 @@
 # SimRIS Channel Simulator v2.0
 
-![SimRIS Logo](corelab_beyaz.jpg) <!-- Replace with your logo or a relevant image -->
+![SimRIS Logo](SimRIS_GUI.png) <!-- Replace with your logo or a relevant image -->
 
 Welcome to the SimRIS Channel Simulator v2.0 repository! This open-source and user-friendly simulator is designed for accurate physical channel modeling of Reconfigurable Intelligent Surface (RIS)-empowered networks. Whether you're a researcher, developer, or enthusiast in the field of wireless communication, SimRIS v2.0 is here to support your studies and experiments.
 
