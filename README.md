@@ -46,7 +46,7 @@ E. Basar, I. Yildirim, “[Reconfigurable Intelligent Surfaces for Future Wirele
 _SimRIS Channel Simulator_ v2.0 is released under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original articles. 
 The following Bibtex entry can be used:
 
-                  @article{basar2020SimRIS,
+                  @article{2020SimRIS_1,
                   Author = {E. {Basar} and I. {Yildirim}},
                   Booktitle = {Proc. IEEE Latin-American Conf. Commun. (LATINCOM 2020)},
                   Title= {{SimRIS} Channel Simulator for Reconfigurable Intelligent Surface-Empowered {mmWave} Communication Systems},
@@ -54,14 +54,16 @@ The following Bibtex entry can be used:
                   month={Nov.},
                   Pages= {1-6},}
                   
-                  @article{basar2020SimRIS_2,
+                  @article{2021SimRIS_2,
                   Author = {E. {Basar} and I. {Yildirim} and F. {Kilinc}},
                   journal = {IEEE Trans. Commun. (Early access)}
                   Title = {Indoor and Outdoor Physical Channel Modeling and Efficient Positioning for Reconfigurable Intelligent Surfaces in mm{W}ave Bands},
-                  Year = {2021},
-                  month={Sep.},}
+                  Volume={69},
+                  Number={12},
+                  Pages={8600-8611},
+                  Doi= {10.1109/tcomm.2021.3113954}}
                   
-                  @article{basar2021SimRIS_3,
+                  @article{2021SimRIS_3,
                   Author = {E. {Basar} and I. {Yildirim}},
                   Journal= {IEEE Wireless Communications},
                   Title = {Reconfigurable Intelligent Surfaces for Future Wireless Networks: {A} Channel Modeling Perspective},
