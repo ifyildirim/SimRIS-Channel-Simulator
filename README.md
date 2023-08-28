@@ -31,6 +31,13 @@ To quickly get started with _SimRIS Channel Simulator_ v2.0, follow these steps:
    _N_: Number of Transmit Reflectors, _Nt_: Number of Transmit Antennas, _Nr_: Number of Receive Antennas, _Nsym_: Number of Channel Realizations
 7. Using the "Save as" button, the channels can be downloaded in a ".mat" format.
 
+## Video Introduction
+
+Check out our video introduction to get a quick overview of SimRIS Channel Simulator v2.0:
+
+[![SimRIS Channel Simulator Introduction](https://img.youtube.com/vi/W9bcSaeydUU/0.jpg)](https://youtu.be/W9bcSaeydUU?feature=shared)
+
+
 ## Documentation
 
 For detailed instructions, usage examples, and further information about SimRIS Channel Simulator v2.0, please refer to our published studies: 
